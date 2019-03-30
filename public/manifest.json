@@ -1,0 +1,35 @@
+{
+    "name": "Sample Push Notification",
+    "short_name": "SPN",
+    "icons": [
+    {
+        "src": "app-icon.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    },
+    {
+        "src": "app-icon.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    },
+    {
+        "src": "app-icon.png",
+        "sizes": "152x152",
+        "type": "image/png"
+    },
+    {
+        "src": "app-icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    },
+    {
+        "src": "app-icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "start_url": "./index.html",
+    "gcm_sender_id": "103953800507",
+    "display": "standalone",
+    "background_color": "#11a6d8",
+    "theme_color": "#2692b6"
+}
